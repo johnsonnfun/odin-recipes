@@ -1,2 +1,1 @@
-# odin-recipes
-odin-recipes
+i want to progress everyday in this skill
